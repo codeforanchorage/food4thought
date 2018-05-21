@@ -6,23 +6,23 @@ var SITES = {
         {
             "type": "Feature",
             "properties": {
-                "Zip": "74012",
-                "City": "BROKEN ARROW",
-                "Name": "VANDEVER ES(125)",
-                "Phone": "918-259-4490",
-                "Date": "7/28/17",
-                "Meals": "B L",
-                "State": "OK",
+                "Zip": "99501",
+                "City": "ANCHORAGE",
+                "Name": "FAIRVIEW REC CENTER",
+                "Phone": "907-343-4130",
+                "Date": "6/5/18",
+                "Meals": "L",
+                "State": "AK",
                 "Status": "Open",
-                "Address": "2200 S. LIONS BROKEN ARROW OK 74012 ",
+                "Address": "1121 E. 10TH AVE. ANCHORAGE AK 99501 ",
                 "Special": "",
-                "Address1": "2200 S. LIONS",
-                "Address2": "2200 S. LIONS BROKEN ARROW OK 74012"
+                "Address1": "1121 E. 10TH AVE.",
+                "Address2": "1121 E. 10TH AVE. ANCHORAGE AK 99501"
             },
             "geometry": {
                 "coordinates": [
-                    -95.805263,
-                    36.025671
+                    -149.862088,
+                    61.213045
                 ],
                 "type": "Point"
             },

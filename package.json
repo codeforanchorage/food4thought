@@ -52,7 +52,7 @@
     "mapbox-gl-geocoder": "^2.0.1",
     "protractor": "~5.1.2",
     "rxjs": "^5.5.2",
-    "typescript": "^2.3.0",
+    "typescript": "2.6.2",
     "zone.js": "^0.8.14"
   },
   "engines": {
